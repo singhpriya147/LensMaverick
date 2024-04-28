@@ -256,6 +256,7 @@ padding: 1rem;
 .testimonial-header{
   position: absolute;
   top: 0;
+  padding-top: 1rem;
 }
 
 .testimonial-wrapper{
@@ -386,6 +387,8 @@ background: #a9b38812;;
    font-family: "Sacramento", cursive;
      font-weight:normal;
   font-size: var(--text-4xl);
+  padding-top: 1rem;
+
 }
 .intro-title> p{
    font-family: "Sacramento", cursive;
