@@ -293,12 +293,12 @@ margin-left: 5%;
 
   right: 5%;
   min-width: 50%; 
+font-weight: lighter;
 
 
-
-  font-size: var(--text-sm);
+  font-size: var(--text-base);
 text-align: center;
-padding-top: 2rem;
+padding: 2rem;
 border-radius: 5px;
 }
 
