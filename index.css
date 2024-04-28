@@ -426,13 +426,13 @@ flex-direction: column;
 text-align: center;
 
 border-radius: 5px;
- 
+ padding:1rem ;
 }
-.intro-about >aside{
+.intro-about >p{
   background-color:#BACD92;
   
  
-
+font-weight: lighter;
 
   font-size: var(--text-base);
 text-align: center;
